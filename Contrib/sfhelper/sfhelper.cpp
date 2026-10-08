@@ -2,7 +2,7 @@
 #include <windows.h>
 
 // exdll is found in the source tarball at http://nsis.sourceforge.net/Download
-#include "../exdll/exdll.h"
+#include "exdll.h"
 #include <stdio.h>
 #include <string>
 //---------------------------------------------------------------------------------
